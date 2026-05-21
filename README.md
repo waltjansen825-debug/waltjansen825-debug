@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi, I'm Walter 👋
+
+Aspiring Design Engineer focused on UI Design and Front-end.
+
+## 🚀 Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Figma
+
+## 🎯 Currently Learning
+- Responsive Design
+- UI Design
+- Front-end Development
+- Modern Interfaces
+
+## 📂 Projects
+- Coffee Shop Website
+- Personal Portfolio
+- Responsive UI Projects
+
+## 🌎 Goal
+Build modern and visually focused web experiences.
 
 <!--
 **waltjansen825-debug/waltjansen825-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
